@@ -1,0 +1,54 @@
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.MusteriveOlcuİslemi.resources
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Properties.Resources.resources
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe.config
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.TerziOlcumVeSiparis.resources
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Siparis.resources
+C:\Users\ACER\Desktop\19350128\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.kullanıcıgiris.resources
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe.config
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.kullanıcıgiris.resources
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.TerziOlcumVeSiparis.resources
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Siparis.resources
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.MusteriveOlcuİslemi.resources
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Properties.Resources.resources
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\ACER\Desktop\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe.config
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.kullanıcıgiris.resources
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.TerziOlcumVeSiparis.resources
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Siparis.resources
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.MusteriveOlcuİslemi.resources
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\emine\OneDrive\Masaüstü\otomasyon\19350128 terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe.config
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\bin\Debug\TerziOlcuOtomasyonu.pdb
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.kullanıcıgiris.resources
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.TerziOlcumVeSiparis.resources
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Siparis.resources
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.MusteriveOlcuİslemi.resources
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.Properties.Resources.resources
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.GenerateResource.cache
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.exe
+C:\Users\emine\OneDrive\Masaüstü\ESNY\proje\terzi\TerziOlcuOtomasyonu\TerziOlcuOtomasyonu\obj\Debug\TerziOlcuOtomasyonu.pdb
